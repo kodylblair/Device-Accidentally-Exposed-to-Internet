@@ -1,7 +1,5 @@
 # 🔍**Detection of Internet-facing sensitive assets**
 
-![image (5)](https://github.com/user-attachments/assets/8a686a3b-791e-40f5-89dd-5d6586bb47d1)
-
 ## Example Scenario:
 During routine maintenance, the security team is tasked with investigating any VMs in the shared services cluster (handling DNS, Domain Services, DHCP, etc.) that have mistakenly been exposed to the public internet. The goal is to identify any misconfigured VMs and check for potential brute-force login attempts/successes from external sources. Internal shared services device (e.g., a domain controller) is mistakenly exposed to the internet due to misconfiguration.
 
@@ -160,8 +158,8 @@ This chart clearly organizes the MITRE ATT&CK techniques (TTPs) used in this inc
 ---
 
 ## Created By:
-- **Author Name**: Trevino Parker  
-- **Author Contact**: [LinkedIn](https://www.linkedin.com/in/trevinoparker/)  
+- **Author Name**: Dakota Blair  
+- **Author Contact**: [LinkedIn](https://www.linkedin.com/in/dakota-blair-lane/)  
 - **Date**: Jan 2025
 
 ## Validated By:
@@ -179,5 +177,5 @@ This chart clearly organizes the MITRE ATT&CK techniques (TTPs) used in this inc
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `Jan 2025`    | `Trevino Parker`   |
+| 1.0         | Initial draft                  | `Jan 2025`    | `Dakota Blair`   |
 ```
